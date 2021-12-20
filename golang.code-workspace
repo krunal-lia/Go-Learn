@@ -1,0 +1,14 @@
+{
+  "folders": [
+		{
+			"path": "."
+		}
+  ],
+  "settings": {
+    "workbench.colorTheme": "Night Owl",
+    "editor.tabSize": 5,
+    "go.languageServerExperimentalFeatures": {
+     "diagnostics": true
+    },
+  },
+}
